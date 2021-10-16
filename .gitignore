@@ -1,0 +1,5 @@
+# Ignoring all & using exceptions as large majority not commit desirable
+*
+!.gitignore
+!EntityHealthBar.cs
+!rustdev.csproj
